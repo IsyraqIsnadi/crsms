@@ -1,4 +1,4 @@
-# DCRSMS
+# CRSMS
 ## Author
 [Muhammad Isyraq Bin Isnadi Ghana CB20031]
 ## Purpose
